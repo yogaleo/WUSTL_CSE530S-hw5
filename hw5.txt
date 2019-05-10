@@ -1,0 +1,5 @@
+Your submission is very good, however I was not able to get it to properly query based on embedded documents, and some conditionals were also not working properly (-8)
+
+Thanks for a great semester!
+
+Total: 92 / 100
